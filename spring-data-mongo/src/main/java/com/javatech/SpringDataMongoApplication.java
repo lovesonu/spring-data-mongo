@@ -10,6 +10,7 @@ import java.util.List;
 public class SpringDataMongoApplication {
 
 	public static void main(String[] args) {
+		System.out.println(" >>>>>> Tect commit");
 		SpringApplication.run(SpringDataMongoApplication.class, args);
 	}
 
